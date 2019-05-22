@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mC:\temp\scala\project\src\test\scala\example\TimeTest.scala:8:10: value date is not a member of object java.util.Date[0m
+[0m[[0m[31merror[0m] [0m[0m    Date date = new Date(1557633720)[0m
+[0m[[0m[31merror[0m] [0m[0m         ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\temp\scala\project\src\test\scala\example\TimeTest.scala:9:24: not found: value date[0m
+[0m[[0m[31merror[0m] [0m[0m    Time.getTimeString(date) shouldEqual "04:02:00 CEST '///' 05.05.2019"[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
